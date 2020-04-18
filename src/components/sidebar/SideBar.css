@@ -1,0 +1,29 @@
+
+.upperlinks {
+    margin: 1rem 0;
+}
+.upperlinks span{
+    margin-right:1rem;
+}
+.upperlinks span button{
+  background-color:#1b262c;
+  color: white;
+  outline: none;
+  border: #1b262c;
+}
+.mdel{
+    color:red;
+}
+ul{
+    list-style-type:none;
+    padding-left: 0;
+}
+ul li{
+    padding-bottom: 1rem;
+}
+ul li button{
+    background-color: #1b262c;
+    border :#1b262c;
+    color:#ccc;
+
+}
